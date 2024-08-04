@@ -64,14 +64,14 @@ You can also use other editors like Neovim, Sublime Text, etc., but you'll need 
 
 ### Linters and Formatters
 
-| **Language** | **Linter**          | **Formatter**                |
-| ------------ | ------------------- | ---------------------------- |
-| Lua          | Any                 | `stylua`                     |
-| Markdown     | `markdownlint-cli2` | `wind-addons/lute-cli` (WIP) |
-| Rust         | `clippy`            | `rustfmt`                    |
-| Python       | `ruff`              | `ruff`                       |
-| Bash         | Any                 | `shfmt`                      |
-| Go           | `golangci-lint`     | `goimports`, `gofumpt`       |
+| **Language** | **Linter**          | **Formatter**                                                 |
+| ------------ | ------------------- | ------------------------------------------------------------- |
+| Lua          | Any                 | `stylua`                                                      |
+| Markdown     | `markdownlint-cli2` | [`wind-addons/wmdfmt`](https://github.com/wind-addons/wmdfmt) |
+| Rust         | `clippy`            | `rustfmt`                                                     |
+| Python       | `ruff`              | `ruff`                                                        |
+| Bash         | Any                 | `shfmt`                                                       |
+| Go           | `golangci-lint`     | `goimports`, `gofumpt`                                        |
 
 ## 📑 Git Commit Guidelines
 
