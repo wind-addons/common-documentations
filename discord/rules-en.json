@@ -1,0 +1,69 @@
+{
+    "embeds": [
+        {
+            "title": "**Server Rules**",
+            "author": {
+                "name": "Welcome to Wind Addons!",
+                "icon_url": "https://github.com/wind-addons/resources/blob/main/dist/discord-3d-emoji/smiling_face_with_hearts_3d.png?raw=true"
+            },
+            "fields": [
+                {
+                    "name": "# <:one_3d:1267844431554416703> Respect and Courtesy",
+                    "value": [
+                        "```",
+                        "Be respectful and considerate to all",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:two_3d:1267844433370550335> Peaceful Discussions",
+                    "value": [
+                        "```",
+                        "Avoid heated arguments",
+                        "Practice patience with others",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:three_3d:1267844434964385883> Prohibited Topics",
+                    "value": [
+                        "```",
+                        "Racism / Politics / Religion",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:four_3d:1267844436768067668> Content Restrictions",
+                    "value": [
+                        "```",
+                        "No spamming",
+                        "No sexual content",
+                        "No advertising",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:five_3d:1267844495714549905> Game Integrity",
+                    "value": [
+                        "```",
+                        "No discussions about RMT",
+                        "No hacking or bots discussions",
+                        "```"
+                    ],
+                    "inline": false
+                }
+            ],
+            "thumbnail": {
+                "url": "https://github.com/wind-addons/resources/blob/main/dist/discord-3d-emoji/scroll_3d.png?raw=true"
+            },
+            "image": {
+                "url": "https://github.com/wind-addons/resources/blob/main/dist/icons/logo-bar.png?raw=true"
+            }
+        }
+    ],
+    "components": []
+}

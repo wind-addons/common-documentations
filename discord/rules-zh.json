@@ -1,0 +1,69 @@
+{
+    "embeds": [
+        {
+            "title": "**服务器守则**",
+            "author": {
+                "name": "欢迎来到 Wind Addons！",
+                "icon_url": "https://github.com/wind-addons/resources/blob/main/dist/discord-3d-emoji/smiling_face_with_hearts_3d.png?raw=true"
+            },
+            "fields": [
+                {
+                    "name": "# <:one_3d:1267844431554416703> 尊重与礼貌",
+                    "value": [
+                        "```",
+                        "对所有成员保持尊重和体谅",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:two_3d:1267844433370550335> 和平讨论",
+                    "value": [
+                        "```",
+                        "避免激烈争论",
+                        "对他人保持耐心",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:three_3d:1267844434964385883> 禁止话题",
+                    "value": [
+                        "```",
+                        "种族主义 / 政治 / 宗教",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:four_3d:1267844436768067668> 内容限制",
+                    "value": [
+                        "```",
+                        "禁止垃圾信息",
+                        "禁止色情内容",
+                        "禁止广告",
+                        "```"
+                    ],
+                    "inline": false
+                },
+                {
+                    "name": "# <:five_3d:1267844495714549905> 游戏诚信",
+                    "value": [
+                        "```",
+                        "禁止讨论现实金钱交易（RMT）",
+                        "禁止讨论黑客或机器人",
+                        "```"
+                    ],
+                    "inline": false
+                }
+            ],
+            "thumbnail": {
+                "url": "https://github.com/wind-addons/resources/blob/main/dist/discord-3d-emoji/scroll_3d.png?raw=true"
+            },
+            "image": {
+                "url": "https://github.com/wind-addons/resources/blob/main/dist/icons/logo-bar.png?raw=true"
+            }
+        }
+    ],
+    "components": []
+}
